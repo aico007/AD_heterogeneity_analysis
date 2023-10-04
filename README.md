@@ -1,4 +1,3 @@
 # AD heterogeneity analysis
 
-This repository was created to store the script used in analysis on patient heterogeneity in atopic dermatitis.
-A relevant paper will be published soon. (final revision submitted on 26th July, 2023)
+This repository was created to store the script used in analysis in Multifaceted analysis of cross-tissue transcriptomes reveals phenotype-endotype associations in atopic dermatitis (Nat Commun 14(1):6133 (2023) https://doi.org/10.1038/s41467-023-41857-8).
